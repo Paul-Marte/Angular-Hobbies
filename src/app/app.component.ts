@@ -10,4 +10,10 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Hobbies';
+  myHobbies = [
+    'Counter-Strike',
+    'Playing Guitar',
+    'Karaoke',
+    'Doing Nothing'
+  ]
 }
